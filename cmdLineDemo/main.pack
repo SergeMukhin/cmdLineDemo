@@ -1,0 +1,18 @@
+﻿% own pack
+#include @"main.ph"
+
+% privately used packages
+#include @"cmdLineTest\cmdLineTest.ph"
+#include @"pfc\collection\M\varM\varM.ph"
+#include @"pfc\commandLineParser\commandLineParser.ph"
+#include @"pfc\console\console.ph"
+#include @"pfc\core.ph"
+#include @"pfc\stream\stream.ph"
+
+% private interfaces
+
+% private classes
+
+% implementations
+#include @"main.pro"
+

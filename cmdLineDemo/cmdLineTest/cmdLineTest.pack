@@ -1,0 +1,13 @@
+﻿#include @"cmdLineTest\cmdLineTest.ph"
+
+% privately used packages
+#include @"pfc\stream\stream.ph"
+#include @"pfc\commandLineParser\commandLineParser.ph"
+#include @"pfc\core.ph"
+
+% private interfaces
+
+% private classes
+
+% implementations
+#include @"cmdLineTest\cmdLineTest.pro"
